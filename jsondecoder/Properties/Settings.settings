@@ -1,0 +1,78 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="jsondecoder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AccessTokenResponse" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PeroidJson" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{
+	"Periods": [{
+		"Id": "1bec6825-c7f0-42e5-9b1c-e1ba1dd1991b",
+		"ProjectId": "aeaed2c6-8648-4c06-8189-683c3ecc1ec3",
+		"TimeZone": "Egypt Standard Time",
+		"DateStart": "2024-02-15T14:31:40.7868998+02:00",
+		"DateEnd": "2024-02-15T15:21:40.7868998+02:00",
+		"DateIntervalStart": "2024-02-15T14:31:40.7988998+02:00",
+		"Duration": 3000.0,
+		"DateLastActive": "2024-02-15T15:21:40.7988998+02:00",
+		"SessionId": "win_b2b4b422-bd8b-46ef-8289-6b885cabc906",
+		"Activitys": [{
+			"Data": "11111",
+			"Date": "2024-02-15T11:40:00Z",
+			"Type": null
+		}, {
+			"Data": "11111111111111111111111111111111111111111111",
+			"Date": "2024-02-15T11:40:00Z",
+			"Type": null
+		}, {
+			"Data": "1111111111111111",
+			"Date": "2024-02-15T11:50:00Z",
+			"Type": null
+		}, {
+			"Data": "11111111111111111111111111111111111111111111",
+			"Date": "2024-02-15T11:50:00Z",
+			"Type": null
+		}, {
+			"Data": "1111111111111111",
+			"Date": "2024-02-15T12:00:00Z",
+			"Type": null
+		}, {
+			"Data": "1111111111111111111111111111",
+			"Date": "2024-02-15T12:00:00Z",
+			"Type": null
+		}],
+		"AppTime": [{
+			"PeriodId": "1bec6825-c7f0-42e5-9b1c-e1ba1dd1991b",
+			"ApplicationName": "webstorm64",
+			"Duration": 498.3785364999999,
+			"Date": "2024-02-15T11:40:00Z"
+		}, {
+			"PeriodId": "1bec6825-c7f0-42e5-9b1c-e1ba1dd1991b",
+			"ApplicationName": "webstorm64",
+			"Duration": 599.3847091000001,
+			"Date": "2024-02-15T11:50:00Z"
+		}, {
+			"PeriodId": "1bec6825-c7f0-42e5-9b1c-e1ba1dd1991b",
+			"ApplicationName": "webstorm64",
+			"Duration": 432.02577990000015,
+			"Date": "2024-02-15T12:00:00Z"
+		}, {
+			"PeriodId": "1bec6825-c7f0-42e5-9b1c-e1ba1dd1991b",
+			"ApplicationName": "Windows Explorer",
+			"Duration": 4.0066974,
+			"Date": "2024-02-15T12:00:00Z"
+		}],
+		"DownTime": null,
+		"Note": null,
+		"RemoveDowntime": null,
+		"DateSave": "2024-02-15T15:21:40.7868998+02:00",
+		"Billable": false,
+		"Completed": null,
+		"IsMeetingTime": null
+	}],
+	"Notes": null
+}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

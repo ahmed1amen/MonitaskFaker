@@ -1,0 +1,408 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>{
+    "Id": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+    "ProjectId": "e60434ea-44e3-4738-85f6-9fd626c79cfd",
+    "TimeZone": "Egypt Standard Time",
+    "DateStart": "2024-02-24T11:53:56.7919777Z",
+    "DateEnd": "2024-02-24T12:55:22.1289049Z",
+    "DateIntervalStart": "2024-02-24T11:53:56.7969777Z",
+    "Duration": 3685.3369272,
+    "DateLastActive": "2024-02-24T12:55:17.0315329Z",
+    "SessionId": "win_5c530517-781d-4914-be30-d483c8bb6926",
+    "Activitys": [
+        {
+            "Data": "11000",
+            "Date": "2024-02-24T11:50:00Z",
+            "Type": null
+        },
+        {
+            "Data": "0011111111111111111110011111110",
+            "Date": "2024-02-24T11:50:00Z",
+            "Type": null
+        },
+        {
+            "Data": "00111111101110110000100111111",
+            "Date": "2024-02-24T12:00:00Z",
+            "Type": null
+        },
+        {
+            "Data": "1111110000000000001111111111000",
+            "Date": "2024-02-24T12:00:00Z",
+            "Type": null
+        },
+        {
+            "Data": "00000000111111000111111111111",
+            "Date": "2024-02-24T12:10:00Z",
+            "Type": null
+        },
+        {
+            "Data": "1110111111111111111111100111111",
+            "Date": "2024-02-24T12:10:00Z",
+            "Type": null
+        },
+        {
+            "Data": "11111111111111111111111100000",
+            "Date": "2024-02-24T12:20:00Z",
+            "Type": null
+        },
+        {
+            "Data": "0001111111111111111111111111100",
+            "Date": "2024-02-24T12:20:00Z",
+            "Type": null
+        },
+        {
+            "Data": "00000000000000001000000001111",
+            "Date": "2024-02-24T12:30:00Z",
+            "Type": null
+        },
+        {
+            "Data": "1000000000001111111111111110110",
+            "Date": "2024-02-24T12:30:00Z",
+            "Type": null
+        },
+        {
+            "Data": "11000011111111111111111000010",
+            "Date": "2024-02-24T12:40:00Z",
+            "Type": null
+        },
+        {
+            "Data": "0000000000000000000011111000000",
+            "Date": "2024-02-24T12:40:00Z",
+            "Type": null
+        },
+        {
+            "Data": "00111111110000111111111000001",
+            "Date": "2024-02-24T12:50:00Z",
+            "Type": null
+        },
+        {
+            "Data": "001",
+            "Date": "2024-02-24T12:50:00Z",
+            "Type": null
+        }
+    ],
+    "AppTime": [
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Windows Explorer",
+            "Duration": 72.18117179999997,
+            "Date": "2024-02-24T11:50:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "ApplicationFrameHost",
+            "Duration": 8.030304699999999,
+            "Date": "2024-02-24T11:50:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Idle",
+            "Duration": 2.0357928,
+            "Date": "2024-02-24T11:50:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Search application",
+            "Duration": 3.9737595999999997,
+            "Date": "2024-02-24T11:50:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Microsoft Excel",
+            "Duration": 276.00535800000006,
+            "Date": "2024-02-24T11:50:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Microsoft Excel",
+            "Duration": 192.05431129999994,
+            "Date": "2024-02-24T12:00:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Windows Explorer",
+            "Duration": 7.942115799999999,
+            "Date": "2024-02-24T12:00:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "ApplicationFrameHost",
+            "Duration": 26.0005177,
+            "Date": "2024-02-24T12:00:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Google Chrome",
+            "Duration": 374,
+            "Date": "2024-02-24T12:00:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Charles Web Debugging Proxy",
+            "Duration": 15.9947878,
+            "Date": "2024-02-24T12:10:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Microsoft Excel",
+            "Duration": 524.0080838000001,
+            "Date": "2024-02-24T12:10:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Google Chrome",
+            "Duration": 38,
+            "Date": "2024-02-24T12:10:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Slack",
+            "Duration": 19.9940552,
+            "Date": "2024-02-24T12:10:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Windows Explorer",
+            "Duration": 2.0015784,
+            "Date": "2024-02-24T12:10:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Microsoft Excel",
+            "Duration": 57.982147100000006,
+            "Date": "2024-02-24T12:20:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Google Chrome",
+            "Duration": 418,
+            "Date": "2024-02-24T12:20:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Windows Explorer",
+            "Duration": 32.1588609,
+            "Date": "2024-02-24T12:20:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Slack",
+            "Duration": 23.991630100000002,
+            "Date": "2024-02-24T12:20:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Search application",
+            "Duration": 4.010526499999999,
+            "Date": "2024-02-24T12:20:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "phpstorm64",
+            "Duration": 63.85794609999999,
+            "Date": "2024-02-24T12:20:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "datagrip64",
+            "Duration": 34.010031600000005,
+            "Date": "2024-02-24T12:30:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Windows Explorer",
+            "Duration": 6.0836913,
+            "Date": "2024-02-24T12:30:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Google Chrome",
+            "Duration": 68,
+            "Date": "2024-02-24T12:30:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "phpstorm64",
+            "Duration": 162.0273736,
+            "Date": "2024-02-24T12:30:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Slack",
+            "Duration": 18.004238199999996,
+            "Date": "2024-02-24T12:30:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Microsoft Excel",
+            "Duration": 262.00115489999985,
+            "Date": "2024-02-24T12:30:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Charles Web Debugging Proxy",
+            "Duration": 47.9854215,
+            "Date": "2024-02-24T12:30:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Monitask",
+            "Duration": 1.9957258999999998,
+            "Date": "2024-02-24T12:30:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Google Chrome",
+            "Duration": 96,
+            "Date": "2024-02-24T12:40:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "datagrip64",
+            "Duration": 365.9678757999998,
+            "Date": "2024-02-24T12:40:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "phpstorm64",
+            "Duration": 4.000046299999999,
+            "Date": "2024-02-24T12:40:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Charles Web Debugging Proxy",
+            "Duration": 83.99298919999998,
+            "Date": "2024-02-24T12:40:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Windows Explorer",
+            "Duration": 6.0621715,
+            "Date": "2024-02-24T12:40:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Slack",
+            "Duration": 33.99755850000001,
+            "Date": "2024-02-24T12:40:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Monitask",
+            "Duration": 9.994177899999999,
+            "Date": "2024-02-24T12:40:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Microsoft Excel",
+            "Duration": 92.00865079999998,
+            "Date": "2024-02-24T12:50:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "datagrip64",
+            "Duration": 43.99605880000001,
+            "Date": "2024-02-24T12:50:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Slack",
+            "Duration": 6.0090316999999995,
+            "Date": "2024-02-24T12:50:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Google Chrome",
+            "Duration": 114,
+            "Date": "2024-02-24T12:50:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Windows Explorer",
+            "Duration": 1.9984423,
+            "Date": "2024-02-24T12:50:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Monitask",
+            "Duration": 14.013179900000003,
+            "Date": "2024-02-24T12:50:00Z"
+        },
+        {
+            "PeriodId": "9b80dbdf-af03-4f4a-b3b4-a42b919be51d",
+            "ApplicationName": "Charles Web Debugging Proxy",
+            "Duration": 49.9949781,
+            "Date": "2024-02-24T12:50:00Z"
+        }
+    ],
+    "DownTime": null,
+    "Note": {
+        "InternalId": "718384b7-7488-4610-9d2d-6afc150e2d5d"
+    },
+    "RemoveDowntime": null,
+    "DateSave": "2024-02-24T12:55:22.1289049Z",
+    "Billable": false,
+    "Completed": true,
+    "IsMeetingTime": null
+}</value>
+  </data>
+</root>
